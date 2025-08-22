@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-Olá. Sou André Corrêa e estou realizando projetos em:
+Olá. Sou André Corrêa. Sou desenvolvedor FrontEnd e estou realizando projetos em:
 HTML
-Css****
+CSS
