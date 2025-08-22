@@ -6,4 +6,6 @@ Olá. Sou André Corrêa. Sou desenvolvedor FrontEnd e estou realizando projetos
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=AndreCorrea10&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/AndreCorrea10/github-stats-card)
